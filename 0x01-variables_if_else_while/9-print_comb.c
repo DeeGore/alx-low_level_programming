@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - A program that prints all possible combinations of single-digit numbers with commar
+ * main - A program that prints all possible combinations of single-digit
  *
  * Return: 0
  */
