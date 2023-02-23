@@ -4,7 +4,7 @@
 /**
  * main - Prints a Fizz Buzz program of numbers 1 to 100
  * Description: Print Fizz for multiples of 3 and Buzz for multiples of 5
- * Return; Always 0 (Success)
+ * Return: Always 0 (Success)
  */
 
 int main(void)
