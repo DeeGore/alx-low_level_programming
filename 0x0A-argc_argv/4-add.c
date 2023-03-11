@@ -5,8 +5,10 @@
 /**
  * check_num - check - string there are digit
  * @string: array str
+ *
  * Return: 0
  */
+
 int check_num(char *str)
 {
 	/*Declaring variables*/
@@ -27,8 +29,10 @@ int check_num(char *str)
  * main - print the name of the program
  * @argc: count argument
  * @argv: Arguments
+ *
  * Return: 0
  */
+
 int main(int argc, char *argv[])
 {
 	/*Declaring variables*/
