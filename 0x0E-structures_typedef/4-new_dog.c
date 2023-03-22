@@ -13,7 +13,7 @@ dog_t *new_dog(char *name, float age, char *owner);
 
 int _strlen(char *str)
 {
-	int len - 0;
+	int len = 0;
 
 	while (*str++)
 		len++;
@@ -65,7 +65,7 @@ dog_t *new_dog(char *name, float age, char *owner)
 		free(doggo);
 		return (NULL);
 	}
-	doggo->name = _strcop(doggo->name, name);
+	doggo->name = _strcopy(doggo->name, name);
 	doggo->age = age;
 	doggo->owner = _strcopy(doggo->owner, owner);
 
